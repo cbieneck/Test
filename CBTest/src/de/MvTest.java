@@ -24,7 +24,7 @@ public class MvTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Wello World!");
+		System.out.println("Hello World!");
 	}
 
 }
